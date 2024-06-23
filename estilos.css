@@ -1,0 +1,31 @@
+
+.td2{
+    text-align: center;
+    align-content: center;
+}
+
+#total{
+    background-color: rgb(92, 97, 97);
+}
+#totalG{
+    background-color: #ffffff;
+}
+#compra{
+    display: flex;
+    position: relative;
+    left: 8%;
+    background-color: #ffffff;
+}
+#agrega{
+    display: flex;
+    position: relative;
+    left: 1%;
+    background-color: #ffffff;
+}
+#imagensita{
+    width: 400px;
+    height: 400px;
+}
+.eliminar-btn,.editar-btn{
+    width: 50px;
+}
